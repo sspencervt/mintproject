@@ -84,7 +84,7 @@ button{
 }
 
 #bottomtext {
-    color: rgb(236, 238, 241);
+    color: rgb(167, 175, 187);
     font-family: 'Nunito', sans-serif;
     font-style: italic;
 }
@@ -139,7 +139,15 @@ hr {
 
 #legal {
     font-family: 'Nunito', sans-serif;
-    display: flex;
-    justify-content: center
+    display: block;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    font-size: 12px;
+}
+
+#legallinks {
+    text-decoration: none;
+    color: black;
     
 }
